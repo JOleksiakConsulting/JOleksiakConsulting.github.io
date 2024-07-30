@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>https://joleksiakconsulting.github.io/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://joleksiakconsulting.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Head of Engineering - Piwik PRO</title>
+      <link>https://joleksiakconsulting.github.io/experience/head-of-engineering/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>https://joleksiakconsulting.github.io/experience/head-of-engineering/</guid>
+      <description>Role description As Head of Engineering I am responsible for delivering a high-quality product to the end users in a timely manner and contributing to the technology strategy, ensuring it supports the overall company and product stratgic objectives. Working closely with CTO, Staff Engineers and Engineering Managers.</description>
+    </item>
+    <item>
+      <title>Product Manager - Piwik PRO</title>
+      <link>https://joleksiakconsulting.github.io/experience/product-manager/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>https://joleksiakconsulting.github.io/experience/product-manager/</guid>
+      <description>Role description As Product &amp;amp; Engineering Manager I was responsible for leading DevOps team in developing Piwik PRO Analytics Suite and its platform. Main duties included managing feature requests and corresponding backlog, servant leadership for the team, as well as release &amp;amp; deployment management. On infrastructure side I was responsible for cost management of Azure services and capacity management.</description>
+    </item>
+    <item>
+      <title>R&amp;D Business Consultant / Project Manager - Fujitsu Technology Solutions</title>
+      <link>https://joleksiakconsulting.github.io/experience/project-manager/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+      <guid>https://joleksiakconsulting.github.io/experience/project-manager/</guid>
+      <description>Role description As R&amp;amp;D Business Consultant I worked with international product management team, consisting of product managers, delivery manager, architects and consultants working on services leveraging cloud-native technologies and digital transformation.&#xA;Project Manager/Product Owner within Delivery Excellence located in Poland GDC. Engaged in projects tied with Business Intelligence and analytics, financial controlling improvements and enhancements.&#xA;Acted as subject matter expert during creation of strategy for line of business consisting of over 1200 people, mainly around governance model, service introduction, automation and communication areas.</description>
+    </item>
+  </channel>
+</rss>
